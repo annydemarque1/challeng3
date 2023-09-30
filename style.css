@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: montserrat;
+  background: linear-gradient(120deg, #bfd1de, hsl(197, 60%, 87%));
+  height: 100vh;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+}
+.center {
+  width: 600px;
+  height: 500px;
+
+  margin: 6% auto;
+  background: rgb(239, 239, 245);
+  padding: 2px;
+}
+.box {
+  width: 320px;
+  margin: 5px auto;
+  padding: 2px;
+  border-radius: 10px;
+}
+.box h3 {
+  color: rgb(76, 194, 244);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.box h4 {
+  color: rgb(26, 217, 48);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.box p {
+  color: rgb(146, 146, 192);
+  font-family: "Times New Roman", Times, serif;
+}
